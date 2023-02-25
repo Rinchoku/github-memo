@@ -13,4 +13,5 @@ GitHub周りでの備忘録
 
 構成ファイルについてをまとめている
 
+* Issue
 * dependabot.yml
