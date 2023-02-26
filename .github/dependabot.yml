@@ -1,0 +1,21 @@
+# Basic set up for three package managers
+
+version: 2
+updates:
+
+# 例としてcomposer.jsonに対しての設定を記述
+#  - package-ecosystem: "composer"
+# パッケージファイルが置かれているファイルパス
+#    directory: "/"
+# 更新確認頻度(weeklyでは基本的に月曜日の確認となる)
+#    schedule:
+#      interval: "weekly"
+# レビュワーの設定
+#    reviewers:
+#      - "rinchoku"
+#    labels:
+#      - "php"
+# 対象パッケージへのPRの最大数を3に設定
+#    open-pull-requests-limit: 3
+# 作成されたPRのマージ先の設定
+#    target-branch: "develop"
