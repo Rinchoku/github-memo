@@ -30,3 +30,21 @@ dependabot.ymlを作成することで、各パッケージ単位で下記のよ
 本Repositoryではパッケージ管理ツールを入れていないため、コメントで個人的お薦めを追加しておく
 
 dependabot.ymlを設定することでdependency graphで更新時のログも確認することができる
+
+## コードオーナー
+
+[CODEOWNERS](https://docs.github.com/ja/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
+
+レポジトリに書き込み権限を持っているユーザ・チームの設定が行える
+コードオーナーに設定されると下記のような恩恵があります
+
+* PR作成時に自動でレビュワーに追加される
+* マージルールにコードオーナーの承認必須を有効化できる
+
+設定するには`.github/CODEOWNERS`を追加する
+
+記法としては下記
+
+```
+<ファイルを示す正規表現> <オーナーにするユーザー・チーム名>
+```
