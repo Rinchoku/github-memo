@@ -56,3 +56,6 @@ Issueテンプレートは自分でmarkdownを書いていくが、Issue Formテ
 * ルートディレクトリ
 * `.github/`
 * `docs/`
+
+設定することで自身のレポジトリに`contribute`ページが作成される。
+[https://github.com/Rinchoku/github-memo/contribute](https://github.com/Rinchoku/github-memo/contribute)
