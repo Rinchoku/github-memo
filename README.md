@@ -8,6 +8,7 @@ GitHub周りでの備忘録
 
 * Pull Request
 * Issue
+* CONTRIBUTING
 
 ## configure
 

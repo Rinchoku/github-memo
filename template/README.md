@@ -46,3 +46,13 @@ Issueテンプレートは各自が記入してもらう形式だが、Issue For
 Issueテンプレートは自分でmarkdownを書いていくが、Issue FormテンプレートではWebフォームとなるため初心者はより入力がしやすい
 また、IssueとIssue Formは共存できるので、命名ルールをしっかり決めて運用すると良さそう
 
+## CONTRIBUTING
+
+[Setting Contributing file](https://docs.github.com/ja/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
+
+プロジェクトにどのようにコントリビュートすべきかのガイドラインを示すためのファイル
+`CONTRIBUTING`を下記ディレクトリのいずれかに記載する
+
+* ルートディレクトリ
+* `.github/`
+* `docs/`
