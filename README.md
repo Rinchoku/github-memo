@@ -23,3 +23,4 @@ GitHub周りでの備忘録
 分類として難しいファイルについてまとめている
 
 * FUNDING
+* CITATION

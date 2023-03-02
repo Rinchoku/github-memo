@@ -16,3 +16,13 @@
 * カスタムの資金獲得 URL
 
 このレポジトリでは役割としておかしいと感じるため設置はしていない
+
+## CITATION
+
+[CITATIONファイルとは](https://docs.github.com/ja/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
+[What is a CITATION.cff file](https://citation-file-format.github.io/)
+
+自身のレポジトリが別の論文やデータセットを引用していることを知らせるためのファイル
+ルートディレクトリに`CITATION.cff`ファイルを設置することで、ランディングページから自動的にリンクされる
+
+別に出典がある場合はしっかり記述をして、引用元を知らせてあげよう
