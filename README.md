@@ -17,3 +17,9 @@ GitHub周りでの備忘録
 * Issue
 * dependabot.yml
 * CodeOwner
+
+## Other
+
+分類として難しいファイルについてまとめている
+
+* FUNDING
