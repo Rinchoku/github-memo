@@ -59,3 +59,14 @@ Issueテンプレートは自分でmarkdownを書いていくが、Issue Formテ
 
 設定することで自身のレポジトリに`contribute`ページが作成される。
 [https://github.com/Rinchoku/github-memo/contribute](https://github.com/Rinchoku/github-memo/contribute)
+
+## SECURITY
+
+[セキュリティについて](https://docs.github.com/ja/code-security/getting-started/adding-a-security-policy-to-your-repository)
+
+プロジェクトのセキュリティ脆弱性について報告する手順を明記したもの。
+`SECURITY.md`を下記ディレクトリに設置すると、ISSUE作成時にセキュリティポリシーへのリンクが表示される
+
+* ルートディレクトリ
+* `.github/`
+* `docs/`

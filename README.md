@@ -17,6 +17,7 @@ GitHub周りでの備忘録
 * Issue
 * dependabot.yml
 * CodeOwner
+* SECURITY
 
 ## Other
 
