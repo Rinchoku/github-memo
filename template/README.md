@@ -70,3 +70,14 @@ Issueテンプレートは自分でmarkdownを書いていくが、Issue Formテ
 * ルートディレクトリ
 * `.github/`
 * `docs/`
+
+## SUPPORT
+
+[プロジェクトへのサポートリソースの追加](https://docs.github.com/ja/communities/setting-up-your-project-for-healthy-contributions/adding-support-resources-to-your-project)
+
+プロジェクトへのサポートを希望している人に、どうすべきかの説明を明記したもの。
+`SUPPORT.md`を下記ディレクトリに設置すると、ISSUE作成時にSUPPORTへのリンクが表示される
+
+* ルートディレクトリ
+* `.github/`
+* `docs/`
