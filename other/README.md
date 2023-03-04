@@ -40,3 +40,13 @@
 * ルートディレクトリ
 * `docs/`
 
+## LICENSE
+
+[LICENSE](https://docs.github.com/ja/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
+[レポジトリ ライセンスの詳細](https://docs.github.com/ja/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+
+ソースコードに関してライセンス(許可されている/されていないこと)を明示したもの
+ソースコードも著作権法として保護されるもののため、規定がある場合も明記する場所(存在しない場合はデフォルトの著作権法の範囲内で適応)
+
+このファイルでは自身のソースコードが別のオープンソースライセンスでどれを利用しているかや自身のソースコードにライセンスを明記する形
+ルートディレクトリに`LICENSE.md`を設置。
