@@ -19,6 +19,8 @@ GitHub周りでの備忘録
 * CodeOwner
 * SECURITY
 * SUPPORT
+* Actions
+
 
 ## Customize
 
